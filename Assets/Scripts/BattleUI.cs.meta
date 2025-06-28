@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 51e411f822f88f8438e5bfbe2f4b84e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerHandPanel: {instanceID: 0}
+  - cardButtonPrefab: {fileID: 2115008243864097558, guid: 5d3cb9e2e3e53f1448ee45392bf4275b, type: 3}
+  - cardVisualPrefab: {fileID: 2324084210193129969, guid: 16e1de5a95a942f4eb666750b2986fa8, type: 3}
+  - playerScoreText: {instanceID: 0}
+  - enemyScoreText: {instanceID: 0}
+  - setScoreText: {instanceID: 0}
+  - playerCardSlot: {instanceID: 0}
+  - aiCardSlot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
